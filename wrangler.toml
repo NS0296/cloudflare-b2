@@ -1,0 +1,9 @@
+[vars]
+
+B2_APPLICATION_KEY_ID = ""
+
+B2_ENDPOINT = ""
+
+BUCKET_NAME = ""
+
+ALLOW_LIST_BUCKET = ""
